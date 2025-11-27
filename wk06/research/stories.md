@@ -58,3 +58,13 @@
 **Inclusion risk**: Low vision, colour-blindness
 **Type**: Job story
 **WCAG**: 1.4.3 Contrast (Minimum, AA) - 4:5:1 for normal text
+
+## Story 6: Task prioritisation
+**Situation**: Prioritising what tasks to do
+**Motivation**: The app suggests tasks to focus on based on importance or deadlines
+**Outcome**: Which can help me save energy and concentrate on what matters most.
+**Underlying need**: Because figuring out which task is more important is tiring.
+
+**Evidence**: Participant A (notes Q6 L72)
+**Inclusion risk**: Cognitive, digital literacty
+**Type**: Job story

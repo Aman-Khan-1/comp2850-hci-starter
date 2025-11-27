@@ -5,7 +5,7 @@ time | task | observation | issue_tag | severity
 **Date**: [2025/11/25 16:14]
 **Context** [partially sighted, dark screen, big and clear fonts, needs text-to-speech features]
 **Consent**: Confirmed verbally
-**Duration**
+**Duration** [~12 minutes]
 
 
 ### Q1: Could you briefly tell me about the last time you used a to-do list or some sort of task manager.
@@ -66,9 +66,6 @@ time | task | observation | issue_tag | severity
 **Themes**: 'environmental_light', 'input_alternatives', 'accessibility_multitasking'
 
 
-
-
-
 ---
 
 ### Q6: If there was one feature you could add to make task management feel less stressful, what would it be?
@@ -81,3 +78,48 @@ time | task | observation | issue_tag | severity
 **Themes**: 'automation_intelligence', 'accessibility_requirements, 'deadline_focus'
 
 
+
+## Participant B
+**Date**: [2025-9/25 14:35]
+**Context**: [e.g., Uses keyboard only, prefers dark mode, has ADHD]
+**Consent**: Confirmed verbally
+**Duration**: [~10 minutes]
+
+### Q1: Last time you used a task manager
+**Response: "I use Notion for uni work. Last week I had to find all tasks tagged 'COMP2850' to prepare for a deadline. It took ages because the filter kept resetting."
+
+**Observations**: 
+- Mentioned filter UX issue (cognitive load)
+- Time pressure context (deadline stress)
+- Tag-based workflow (not just chronological)
+
+**Themes**: 'filter_persistence', 'cognitive_load', 'deadline_anxiety'
+
+---
+
+### Q2: What fustrates you?
+**Response: "When I submit a form and nothing happens-like, did it save? I have to refresh the whole page to check."
+
+**Observations**:
+- Lack of confirmation feedback
+- Low trust in interface
+- Workaround = page reload (inefficient)
+
+**Themes**: 'status_feedback', 'confirmation', 'trust'
+
+---
+
+### Q3: Lost track of important task?
+**Response**: "Yeah, I once forgot to submit coursework because it was buried in my list. I wish there was a way to pin urgent things."
+
+**Observations**:
+- List length issue (visibility)
+- Prioritisation need
+- Consequence = missed deadline (high impact)
+
+**Themes**: 'prioritisation', 'visibility', 'urgent_tasks'
+
+---
+
+### Q4: Work without a mouse?
+**Response**: "My trackpad broke last month. I tried using Tab to navigate, but some buttons were impossible to reach. Had to borrow a friend's mouse."
